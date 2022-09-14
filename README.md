@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Guilherme Pontes
 
 
-- 🔭 Developer Mobile || back-end .
+- 🔭 Developer Back-end, Mobile.
 - 🌱 Estudando C#,Java e Flutter.
 <div align="center">
   <a href="https://github.com/GuihPontes">
