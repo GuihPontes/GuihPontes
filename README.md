@@ -10,10 +10,10 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gui-Csharp" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
   <img align="center" alt="Gui-swfit" height="50" width="60" src="https://download.logo.wine/logo/Swift_(programming_language)/Swift_(programming_language)-Logo.wine.png">
-  <img align="center" alt="Gui-Kotlin" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kotlin_logo_2021.svg/2560px-Kotlin_logo_2021.svg.png">
+  <img align="center" alt="Gui-Kotlin" height="30" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kotlin_logo_2021.svg/2560px-Kotlin_logo_2021.svg.png">
   <img align="center" alt="Gui-flutter" height="30" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png">
  
 </div>
